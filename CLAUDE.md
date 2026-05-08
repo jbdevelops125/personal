@@ -73,6 +73,6 @@ There is no test framework and no CI pipeline. Verify changes by opening `index.
 
 ## Git Workflow
 
-- Development branch: `claude/add-claude-documentation-7LP6N`
+- Development branch: `claude/update-claude-version-NtWBo`
 - Main branch: `main`
 - Push with: `git push -u origin <branch-name>`
